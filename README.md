@@ -1,5 +1,8 @@
 # Pokedex
 
+<img width="1425" height="769" alt="image" src="https://github.com/user-attachments/assets/d03deb3b-85ef-4c4f-bbc3-010cc79f6e4b" />
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
 
 ## Development server
